@@ -1,1 +1,1 @@
-GetPaidGlobal.github.io
+https://getpaidglobal.github.io/
